@@ -1,0 +1,61 @@
+<xml version="1.0" encoding="UTF-8">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="book">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="bookID" type="xs:decimal"/>
+      <xs:element name="bookname" type="xs:string"/>
+      <xs:element name="ISBN" type="xs:decimal"/>
+      <xs:element name="page" type="xs:decimal"/>
+      <xs:element name="bookedition" type="xs:decimal"/>
+      <xs:element name="language" type="xs:string"/>
+      <xs:element name="format" type="xs:string"/>
+      <xs:element name="publishingdate" type="xs:date"/>
+      <xs:element name="covertype" type="xs:string"/>
+      <xs:element name="category" type="xs:string"/>
+      <xs:element name="authorname" type="xs:string"/>
+      <xs:element name="publishername" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="author">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="authorID" type="xs:decimal"/>
+      <xs:element name="authorname" type="xs:string"/>
+      <xs:element name="authorsurname" type="xs:string"/>
+      <xs:element name="authorbirthdate" type="xs:date"/>
+      <xs:element name="authordeathhdate" type="xs:date"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="publisher">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="publisherID" type="xs:decimal"/>
+      <xs:element name="publishername" type="xs:string"/>
+      <xs:element name="publisherphonenumber" type="xs:decimal"/>
+      <xs:element name="publishere-posta" type="xs:string"/>
+      <xs:element name="adress" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+<xs:element name="adress">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="adressID" type="xs:decimal"/>
+      <xs:element name="street" type="xs:string"/>
+      <xs:element name="district" type="xs:string"/>
+      <xs:element name="province" type="xs:string"/>
+      <xs:element name="country" type="xs:string"/>
+      <xs:element name="doornumber" type="xs:decimal"/>
+      <xs:element name="postcode" type="xs:decimal"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>

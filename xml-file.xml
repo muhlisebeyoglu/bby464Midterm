@@ -1,0 +1,235 @@
+<xml version="1.0" encoding="UTF-8">
+
+    <bookstore>
+ <books>
+
+<book>
+    <bookId>1</bookId>
+    <bookName>Kendine Ait Bir Oda</bookName>
+    <ısbn>978-6055340308</ısbn>
+    <page>128</page>
+    <bookEdition>16</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2012</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Edebiyat</category>
+    <authorname>Wirginia Woolf</authorname>
+     <publishername>Kırmızı Kedi</publishername>
+</book>
+    
+<book>
+    <bookId>2</bookId>
+    <bookName>Dönüşüm</bookName>
+    <ısbn>978-6059702256</ısbn>
+    <page>88</page>
+    <bookEdition>10</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2013</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Edebiyat</category>
+    <authorname>Franz Kafka</authorname>
+     <publishername>Kırmızı Kedi</publishername>
+</book>
+    
+<book>
+    <bookId>3</bookId>
+    <bookName>Fareler ve İnsanlar</bookName>
+    <ısbn>978-9755705859</ısbn>
+    <page>128</page>
+    <bookEdition>9</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2012</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Edebiyat</category>
+    <authorname>John Steinbeck</authorname>
+     <publishername>Sel</publishername>
+</book>
+    
+<book>
+    <bookId>4</bookId>
+    <bookName>Tutunamayanlar</bookName>
+    <ısbn>978-9754700114</ısbn>
+    <page>724</page>
+    <bookEdition>25</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2000</publishingDate>
+    <coverType>Ciltli</coverType>
+    <category>Edebiyat</category>
+    <authorname>Oğuz Atay</authorname>
+     <publishername>İletişim</publishername>
+</book>
+    
+<book>
+    <bookId>5</bookId>
+    <bookName>Üç Kedi Bir Dilek</bookName>
+    <ısbn>978-9750821820</ısbn>
+    <page>32</page>
+    <bookEdition>6</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2012</publishingDate>
+    <coverType>Ciltli</coverType>
+    <category>Çocuk ve Gençlil</category>
+    <authorname>Sara Şahinkanat</authorname>
+     <publishername>Yapı Kredi Kültür Sanat</publishername>
+</book>
+    
+<book>
+    <bookId>6</bookId>
+    <bookName>Dublörün Dilemması</bookName>
+    <ısbn>978-6055162757</ısbn>
+    <page>272</page>
+    <bookEdition>15</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2013</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Edebiyat</category>
+    <authorname>Murat Menteş</authorname>
+     <publishername>April</publishername>
+</book>
+    
+<book>
+    <bookId>7</bookId>
+    <bookName>Saatleri Ayarlama Enstitüsü</bookName>
+    <ısbn>978-9759955762</ısbn>
+    <page>400</page>
+    <bookEdition>61</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2011</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Edebiyat</category>
+    <authorname>Ahmet Hamdi Tanpınar</authorname>
+     <publishername>Dergah</publishername>
+</book>
+    
+<book>
+    <bookId>8</bookId>
+    <bookName>Nutuk</bookName>
+    <ısbn>978-6059833455</ısbn>
+    <page>658</page>
+    <bookEdition>65</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2013</publishingDate>
+    <coverType>Ciltli</coverType>
+    <category>Tarih</category>
+    <authorname>Mustafa Kemal Atatürk</authorname>
+     <publishername>İleri</publishername>
+</book>
+    
+<book>
+    <bookId>9</bookId>
+    <bookName>Schrödinger'in Kedisinin Peşinde/ Kuantum Fiziği ve Gerçeklik</bookName>
+    <ısbn>978-9753425193</ısbn>
+    <page>296</page>
+    <bookEdition>13</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2005</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Bilim</category>
+    <authorname>John Gribbin</authorname>
+     <publishername>Metis</publishername>
+</book>
+    
+<book>
+    <bookId>10</bookId>
+    <bookName>Temel Tasarım ve Tasarım İlkeleri</bookName>
+    <ısbn>978-059942225</ısbn>
+    <page>542</page>
+    <bookEdition>1</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2015</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Eğitim</category>
+    <authorname>Esma Civcir</authorname>
+     <publishername>Akademisyen</publishername>
+</book>
+    
+<book>
+    <bookId>11</bookId>
+    <bookName>Ahmaklık Üzere</bookName>
+    <ısbn>978-6052980545</ısbn>
+    <page>68</page>
+    <bookEdition>1</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2017</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Felsefe</category>
+    <authorname>Robert Musil</authorname>
+     <publishername>Kırmızı Kedi</publishername>
+</book>
+    
+<book>
+    <bookId>12</bookId>
+    <bookName>Gerçekten Bilmeniz Gereken 50 Sanat Fikri</bookName>
+    <ısbn>978-6054729166</ısbn>
+    <page>208</page>
+    <bookEdition>1</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2013</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Sanat</category>
+    <authorname>Susie Hodge</authorname>
+     <publishername>Domingo</publishername>
+</book>
+    
+<book>
+    <bookId>13</bookId>
+    <bookName>Captain America/ Kızıl Tehdit</bookName>
+    <ısbn>978-6059985680</ısbn>
+    <page>168</page>
+    <bookEdition>5</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2016</publishingDate>
+    <coverType>Ciltli</coverType>
+    <category>Çizgi Roman</category>
+    <authorname>Ed Brubaker</authorname>
+     <publishername>Mavi Çizgi</publishername>
+</book>
+    
+<book>
+    <bookId>14</bookId>
+    <bookName>Tehlikeli Oyunlar</bookName>
+    <ısbn>978-9754702095</ısbn>
+    <page>479</page>
+    <bookEdition>20</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2000</publishingDate>
+    <coverType>Ciltli</coverType>
+    <category>Edebiyat</category>
+    <authorname>Oğuz Atay</authorname>
+     <publishername>İletişim</publishername>
+</book>
+    
+<book>
+    <bookId>15</bookId>
+    <bookName>Sineklerin Tanrısı</bookName>
+    <ısbn>978-9944884778</ısbn>
+    <page>205</page>
+    <bookEdition>33</bookEdition>
+    <language>Türkçe</language>
+    <format>Basılı</format>
+    <publishingDate>2006</publishingDate>
+    <coverType>Ciltsiz</coverType>
+    <category>Edebiyat</category>
+    <authorname>William Golding </authorname>
+     <publishername>İş Bankası Kültür</publishername>
+</book>
+     
+        
+    </books> 
+    
+    
+</bookstore>

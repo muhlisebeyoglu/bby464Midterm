@@ -1,0 +1,232 @@
+<xml version="1.0" encoding="UTF-8">
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc= "http://purl.org/dc/elements/1.1/">
+
+<rdf:Description rdf:about="Kendine Ait Bir Oda">
+  <dc:description>Edebiyat</dc:description>
+  <dc:title>Kendine Ait Bir Oda</dc:title>
+  <dc:identifier>978-6055340308</dc:identifier>
+  <dc:creator>Virginia Woolf</dc:creator>
+  <dc:sizeOrDuration>128</dc:sizeOrDuration>
+  <dc:issued>16</dc:issued>
+  <dc:date>2012</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Kırmızı Kedi</dc:publisher>
+  
+</rdf:Description>
+    <rdf:Description rdf:about="Dönüşüm">
+  <dc:description>Edebiyat</dc:description>
+  <dc:title>Dönüşüm</dc:title>
+  <dc:identifier>978-6059702256</dc:identifier>
+  <dc:creator>Franz Kafka</dc:creator>
+  <dc:sizeOrDuration>88</dc:sizeOrDuration>
+  <dc:issued>10</dc:issued>
+  <dc:date>2013</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Kırmızı Kedi</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Fareler ve İnsanlar">
+  <dc:description>Edebiyat</dc:description>
+  <dc:title>Fareler ve İnsanlar</dc:title>
+  <dc:identifier>978-9755705859</dc:identifier>
+  <dc:creator>John Steinbeck</dc:creator>
+  <dc:sizeOrDuration>128</dc:sizeOrDuration>
+  <dc:issued>9</dc:issued>
+  <dc:date>2012</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Sel</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Tutunamayanlar">
+  <dc:description>Edebiyat</dc:description>
+  <dc:title>Tutunamayanlar</dc:title>
+  <dc:identifier>978-9754700114</dc:identifier>
+  <dc:creator>Oğuz Atay</dc:creator>
+  <dc:sizeOrDuration>724</dc:sizeOrDuration>
+  <dc:issued>25</dc:issued>
+  <dc:date>2000</dc:date>
+  <dc:type>Ciltli</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>İletişim</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Üç Kedi Bir Dilek">
+  <dc:description>Çocuk ve Gençlik</dc:description>
+  <dc:title>Üç Kedi Bir Dilek</dc:title>
+  <dc:identifier>978-9750821820</dc:identifier>
+  <dc:creator>Sara Şahinkanat</dc:creator>
+  <dc:sizeOrDuration>32</dc:sizeOrDuration>
+  <dc:issued>6</dc:issued>
+  <dc:date>2012</dc:date>
+  <dc:type>Ciltli</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Yapı Kredi Kültür Sanat</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Dublörün Dilemması">
+  <dc:description>Edebiyat</dc:description>
+  <dc:title>Dublörün Dilemması</dc:title>
+  <dc:identifier>978-6055162757</dc:identifier>
+  <dc:creator>Murat Menteş</dc:creator>
+  <dc:sizeOrDuration>272</dc:sizeOrDuration>
+  <dc:issued>15</dc:issued>
+  <dc:date>2013</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>April</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Saatleri Ayarlama Enstitüsü">
+  <dc:description>Edebiyat</dc:description>
+  <dc:title>Saatleri Ayarlama Enstitüsü</dc:title>
+  <dc:identifier>978-9759955762</dc:identifier>
+  <dc:creator>Ahmet Hamdi Tanpınar</dc:creator>
+  <dc:sizeOrDuration>400</dc:sizeOrDuration>
+  <dc:issued>61</dc:issued>
+  <dc:date>2011</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Dergah</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Nutuk">
+  <dc:description>Tarih</dc:description>
+  <dc:title>Nutuk</dc:title>
+  <dc:identifier>978-6059833455</dc:identifier>
+  <dc:creator>Mustafa Kemal Atatürk</dc:creator>
+  <dc:sizeOrDuration>658</dc:sizeOrDuration>
+  <dc:issued>65</dc:issued>
+  <dc:date>2013</dc:date>
+  <dc:type>Ciltli</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>İleri</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Schrödinger'in Kedisinin Peşinde/ Kuantum Fiziği ve Gerçeklik">
+  <dc:description>Bilim</dc:description>
+  <dc:title>Schrödinger'in Kedisinin Peşinde/ Kuantum Fiziği ve Gerçeklik</dc:title>
+  <dc:identifier>978-9753425193</dc:identifier>
+  <dc:creator>John Gribbin</dc:creator>
+  <dc:sizeOrDuration>296</dc:sizeOrDuration>
+  <dc:issued>13</dc:issued>
+  <dc:date>2005</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Metis</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Temel Tasarım ve Tasarım İlkeleri">
+  <dc:description>Eğitim</dc:description>
+  <dc:title>Temel Tasarım ve Tasarım İlkeleri</dc:title>
+  <dc:identifier>978-059942225</dc:identifier>
+  <dc:creator>Esma Civcir</dc:creator>
+  <dc:sizeOrDuration>542</dc:sizeOrDuration>
+  <dc:issued>1</dc:issued>
+  <dc:date>2015</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Akademisyen</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Ahmaklık Üzere">
+  <dc:description>Felsefe</dc:description>
+  <dc:title>Ahmaklık Üzere</dc:title>
+  <dc:identifier>978-6052980545</dc:identifier>
+  <dc:creator>Robert Musil</dc:creator>
+  <dc:sizeOrDuration>68</dc:sizeOrDuration>
+  <dc:issued>1</dc:issued>
+  <dc:date>2017</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Kırmızı Kedi</dc:publisher>
+  
+</rdf:Description>
+
+    <rdf:Description rdf:about="Gerçekten Bilmeniz Gereken 50 Sanat Fikri">
+  <dc:description>Sanat</dc:description>
+  <dc:title>Gerçekten Bilmeniz Gereken 50 Sanat Fikri</dc:title>
+  <dc:identifier>978-6054729166</dc:identifier>
+  <dc:creator>Susie Hodge</dc:creator>
+  <dc:sizeOrDuration>208</dc:sizeOrDuration>
+  <dc:issued>1</dc:issued>
+  <dc:date>2013</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Domingo</dc:publisher>
+  
+</rdf:Description>
+    
+     <rdf:Description rdf:about="Captain America/ Kızıl Tehdit">
+  <dc:description>Çizgi Roman</dc:description>
+  <dc:title>Captain America/ Kızıl Tehdit</dc:title>
+  <dc:identifier>978-6059985680</dc:identifier>
+  <dc:creator>Ed Brubaker</dc:creator>
+  <dc:sizeOrDuration>168</dc:sizeOrDuration>
+  <dc:issued>5</dc:issued>
+  <dc:date>2016</dc:date>
+  <dc:type>Ciltli</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>Mavi Çizgi</dc:publisher>
+  
+</rdf:Description>
+    
+     <rdf:Description rdf:about="Tehlikeli Oyunlar">
+  <dc:description>Edebiyat</dc:description>
+  <dc:title>Tehlikeli Oyunlar</dc:title>
+  <dc:identifier>978-9754702095</dc:identifier>
+  <dc:creator>Oğuz Atay</dc:creator>
+  <dc:sizeOrDuration>479</dc:sizeOrDuration>
+  <dc:issued>20</dc:issued>
+  <dc:date>2000</dc:date>
+  <dc:type>Ciltli</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>İletişim</dc:publisher>
+  
+</rdf:Description>
+    
+     <rdf:Description rdf:about="Sineklerin Tanrısı">
+  <dc:description>Sanat</dc:description>
+  <dc:title>Sineklerin Tanrısı</dc:title>
+  <dc:identifier>978-9944884778</dc:identifier>
+  <dc:creator>William Golding</dc:creator>
+  <dc:sizeOrDuration>205</dc:sizeOrDuration>
+  <dc:issued>33</dc:issued>
+  <dc:date>2006</dc:date>
+  <dc:type>Ciltsiz</dc:type>
+  <dc:format>Basılı</dc:format>
+  <dc:language>Türkçe</dc:language>
+  <dc:publisher>İş Bankası Kültür</dc:publisher>
+  
+</rdf:Description>
+
+
+</rdf:RDF>
